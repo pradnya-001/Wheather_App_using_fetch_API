@@ -1,2 +1,19 @@
-# Wheather_App_using_fetch_API
-This project is a Weather App built using HTML, CSS, and JavaScript. It uses the OpenWeatherMap API to fetch real-time weather data for any city entered by the user. The app displays temperature, weather condition, humidity, and wind speed with a clean UI.
+# 🌦️ Weather App (using Fetch API)
+
+A simple weather app built with **HTML, CSS, and JavaScript** that fetches real-time weather data using the **OpenWeatherMap API**.
+
+---
+
+## 📌 Features
+- Search weather by city name 🌍  
+- Displays **temperature, weather condition, humidity, and wind speed**  
+- Responsive design  
+- Beginner-friendly project to learn **API integration** with JavaScript  
+
+---
+
+## 🛠️ Tech Stack
+- **HTML** → Structure  
+- **CSS** → Styling  
+- **JavaScript** → Fetch API for weather data  
+
